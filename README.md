@@ -3,6 +3,10 @@
 A cinematic, interactive landing page for [UGA Open Source](https://ugaopensource.vercel.app),
 the student-run library of notes, summaries, flashcards and practice questions.
 
+![Hero section](docs/preview-hero.png)
+
+A prebuilt, self-contained copy of the page is at [`uga-open-source-landing.html`](uga-open-source-landing.html). Open it straight in a browser; no install needed.
+
 The whole page is one React component — [`src/UGAOpenSourceLanding.jsx`](src/UGAOpenSourceLanding.jsx) —
 with its styles in [`src/landing.css`](src/landing.css). There are no runtime dependencies beyond React.
 
